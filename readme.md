@@ -1,12 +1,12 @@
-# _Counting Up Webpage using Arrays_
+# _Transportation Quizz using Arrays and checkboxes_
 
-#### _Practice using looping and arrays in JavaScript to count up in a certain order._
+#### _Practice using looping and checkboxes in JavaScript to make Transportation Quizz_
 
 #### By _**Mikah Mathews and Ivan Lebedzeu - March 31, 2020**_
 
 ## Description
 
-_An exercise using for loops to count up in a certain ._
+_An exercise using checkboxes to gather user information about their transportation._
 
 ## Setup/Installation Requirements
 
@@ -14,7 +14,7 @@ _An exercise using for loops to count up in a certain ._
 * Navigate to index.html file through your file interface.
 * Right click and open in the browser of your choice.
 
-* Alternatively, open the webpage at https://mikah-mathews.github.io/count-up
+* Alternatively, open the webpage at https://mikah-mathews.github.io/transportation-survey/
 
 ## Known Bugs
 
