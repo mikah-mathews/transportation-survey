@@ -1,6 +1,6 @@
-# _Transportation Quizz using Arrays and checkboxes_
+# _Transportation Quiz using Arrays and checkboxes_
 
-#### _Practice using looping and checkboxes in JavaScript to make Transportation Quizz_
+#### _Practice using looping and checkboxes in JavaScript to make Transportation Quiz_
 
 #### By _**Mikah Mathews and Ivan Lebedzeu - March 31, 2020**_
 
